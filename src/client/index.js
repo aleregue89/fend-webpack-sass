@@ -13,3 +13,9 @@ console.log(checkForName);
 
 alert("I EXIST")
 console.log("CHANGE!!");
+
+// update JS to use the client Package - export //
+export {
+    checkForName,
+    handleSubmit
+};
